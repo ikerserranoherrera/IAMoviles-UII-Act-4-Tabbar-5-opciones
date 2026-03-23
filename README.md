@@ -1,4 +1,11 @@
 # myapp
+<img width="1220" height="597" alt="image" src="https://github.com/user-attachments/assets/8ab3b4db-a28c-4a8c-ac76-2ff385d993db" />
+<img width="1225" height="587" alt="image" src="https://github.com/user-attachments/assets/0d67eb94-1d54-42bf-a8e9-0950b6ab1b77" />
+<img width="1228" height="586" alt="image" src="https://github.com/user-attachments/assets/9b262dd1-f49c-4b37-8fcf-b9940731abf6" />
+<img width="1216" height="594" alt="image" src="https://github.com/user-attachments/assets/ec5eec4b-fd7d-47f7-96db-0ccd0042ef1c" />
+<img width="1215" height="593" alt="image" src="https://github.com/user-attachments/assets/f9ba105b-dd5a-424f-90a5-12065e416f52" />
+
+
 # Prompt: Generación de App Flutter "Carl's Jr. Style" con TabBar Inferior
 
 Actúa como un desarrollador experto en Flutter y Dart. Necesito crear una aplicación móvil inspirada en la estética de **Carl's Jr.** con las siguientes especificaciones técnicas y de diseño:
