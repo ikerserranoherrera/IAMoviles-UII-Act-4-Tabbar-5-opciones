@@ -4,6 +4,11 @@
 <img width="1228" height="586" alt="image" src="https://github.com/user-attachments/assets/9b262dd1-f49c-4b37-8fcf-b9940731abf6" />
 <img width="1216" height="594" alt="image" src="https://github.com/user-attachments/assets/ec5eec4b-fd7d-47f7-96db-0ccd0042ef1c" />
 <img width="1215" height="593" alt="image" src="https://github.com/user-attachments/assets/f9ba105b-dd5a-424f-90a5-12065e416f52" />
+<img width="324" height="548" alt="image" src="https://github.com/user-attachments/assets/85c25193-6b82-4ff1-a27c-a9ff2fce121d" />
+<img width="324" height="545" alt="image" src="https://github.com/user-attachments/assets/38000cc4-acc7-462c-b5be-9a5e58b39e4b" />
+<img width="314" height="518" alt="image" src="https://github.com/user-attachments/assets/2da567ab-4cca-4daf-8842-916ffd740226" />
+<img width="330" height="559" alt="image" src="https://github.com/user-attachments/assets/a3387597-3e51-495d-9bfa-6a6840b91c22" />
+<img width="329" height="572" alt="image" src="https://github.com/user-attachments/assets/cdb7d6e0-586e-41d2-9a23-7b5ec6112c25" />
 
 
 # Prompt: Generación de App Flutter "Carl's Jr. Style" con TabBar Inferior
